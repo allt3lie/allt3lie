@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @allt3lie
+- 👀 I’m interested in deep learning and how the code can do more in the artist feeld...
+- 🌱 I’m currently learning how its works and how I can find a code to help me in my ideas...
+- 💞️ I’m looking to collaborate on art and tecnology intercections ...
+
+<!---
+allt3lie/allt3lie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
